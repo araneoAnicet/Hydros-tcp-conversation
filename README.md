@@ -1,5 +1,9 @@
 # Hydros-tcp-conversation
 
+# Preview:
+
+![photo](https://user-images.githubusercontent.com/38670044/49691746-2cf15d00-fb49-11e8-823b-ba8cc98e39d3.PNG)
+
 # Layouts' structure:
 
 
