@@ -33,11 +33,3 @@ while True:
             client_sock.send(pickle.dumps(message))
             time.sleep(0.1)
 client_sock.close()
-
-# while True:
-#     info = client_sock.recv(1024)
-#     print('>' + info.decode())
-#     if info.decode() == 'STOP':
-#         print('Stop keyword')
-#         client_sock.close()
-#         break
